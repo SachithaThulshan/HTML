@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl"
+href="newfor.xsl"?> 
+<catalog>
+    <cd>
+        <title>Transformers</title>
+        <director>Mitchael Bay</director>
+        <Release_Date>2007</Release_Date>
+        <distributer>Paramount Picture</distributer>
+        <box_office>5.2</box_office>
+        <rating>6.4</rating>
+    </cd>
+
+    <cd>
+        <title>Pirates of the Caribbean</title>
+        <director>Espen Sandberg</director>
+        <Release_Date>2003</Release_Date>
+        <distributer>Motion Picture</distributer>
+        <box_office>4.5</box_office>
+        <rating>3.4</rating>
+    </cd>
+
+    <cd>
+        <title>Fast and Furious</title>
+        <director>Vin Diesel</director>
+        <Release_Date>2019</Release_Date>
+        <distributer>Universal Picture</distributer>
+        <box_office>7</box_office>
+        <rating>6.8</rating>
+    </cd>
+
+    <cd>
+        <title>Avatar</title>
+        <director>James Cameron</director>
+        <Release_Date>2009</Release_Date>
+        <distributer>20th Century Studios</distributer>
+        <box_office>2.9</box_office>
+        <rating>7.9</rating>
+    </cd>
+
+    <cd>
+        <title>Iron man</title>
+        <director>Jon Favreau</director>
+        <Release_Date>2008</Release_Date>
+        <distributer>20th Century Studios</distributer>
+        <box_office>2.3</box_office>
+        <rating>4.1</rating>
+    </cd>
+    
+    <cd>
+        <title>Kung Fu Panda</title>
+        <director>Mark Osborne</director>
+        <Release_Date>2008</Release_Date>
+        <distributer>DreamWorks Animation</distributer>
+        <box_office>2</box_office>
+        <rating>7.6</rating>
+    </cd>
+
+    <cd>
+        <title>Mission Imposible</title>
+        <director> J.J. Abrams</director>
+        <Release_Date>1996</Release_Date>
+        <distributer>Paramount Pictures</distributer>
+        <box_office>2.6</box_office>
+        <rating>7.2</rating>
+    </cd>
+    <cd>
+        <title>Harry Potter</title>
+        <director>Chris Columbus </director>
+        <Release_Date>2001</Release_Date>
+        <distributer> Warner Bros. Pictures</distributer>
+        <box_office>7.7</box_office>
+        <rating>7.2</rating>
+    </cd>
+
+    <cd>
+        <title>The Lord of the Rings</title>
+        <director>Peter Jackson</director>
+        <Release_Date>2001</Release_Date>
+        <distributer>New Line Cinema</distributer>
+        <box_office>2.9</box_office>
+        <rating>7</rating>
+    </cd>
+
+    <cd>
+        <title>Spider-Man</title>
+        <director>Sam Raimi</director>
+        <Release_Date>2002</Release_Date>
+        <distributer>Columbia Pictures</distributer>
+        <box_office>2.3</box_office>
+        <rating>7.1</rating>
+    </cd>
+</catalog>
+
