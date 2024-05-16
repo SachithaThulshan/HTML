@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="widtd=device-widtd, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <fieldset >
+        <form action="insert.php" method="post">
+    <table border="0">
+        <tr>
+            <th><u>RECRPIRNT DETAILS</u></th>
+            <th>[ADD DATA]</th>
+            <th><u>CUSTOMER DETAILS</u></th>
+        </tr>
+        <tr>
+            <td>Order No</td>
+            <td rowspan="6" width = "100"></td>
+            <td>NIC No</td>
+
+        </tr>
+        <tr>
+            <td><input size="5" type="text" name="order"></td>
+            <td><input size="5" type="text" name="nic"></td>
+                
+        </tr>
+        <tr>
+            <td>Recipient Name</td>
+            <td>Coustomer Name</td>
+
+        </tr>
+        <tr>
+            <td><input type="text" name="Rname"></td>
+            <td><input type="text" name="Cname"></td>
+                
+        </tr>
+        <tr>
+            <td>Address</td>
+            <td>Email Address</td>
+
+        </tr>
+        <tr>
+            <td><input type="text" name="address"></td>
+            <td><input type="text" name="Email"></td>
+        </tr>
+
+
+        <tr>
+            <td>Deliver Date</td>
+        </tr>
+        <tr >
+            <table border="0">
+                <tr>
+                    <td><label for="Day">Day</label><br>
+                        <Select name="day">
+                            <option value="1">1</option>
+                            <option value="1">2</option>
+                        </Select></td>
+                    <td ><label for="month">Month</label><br>
+                        <Select  name="month">
+                            <option value="1">1</option>
+                            <option value="1">2</option>
+                        </Select></td>
+                    <td ><label for="year">Year</label><br>
+                        <Select name="year">
+                            <option value="2024">2024</option>
+                            <option value="2025">2025</option>
+                        </Select></td>
+                        <td rowspan="3" width = "250px"> <center><input type="submit" value="SUBMIT"></center> </td>
+                </tr>
+                <tr>
+                    <td>Item No</td>
+                    <td></td>
+                    <td>Price</td>
+                </tr>
+                <tr>
+                    <td ><input size="4" type="text" name="item"></td>
+                    <td></td>
+                    <td ><input size="4" type="text" name="price"></td>
+                </tr>
+            </table>
+            
+            
+        </tr>
+
+
+
+    </table>
+</form>
+</fieldset>
+
+</body>
+</html>
