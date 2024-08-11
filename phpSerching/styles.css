@@ -1,0 +1,34 @@
+nav{
+    background-color: red;
+    margin: 0;
+    
+}
+.nevbar{
+    float: left;
+}
+.nevbar1{
+    float: right;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+    
+}
+li{
+    /* float: left; */
+    background-color: aqua;
+    padding: 20px 50px;
+    
+}
+.image{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px dashed #ccc; */
+    margin-top: 20px;
+}
